@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rasm</title>
+</head>
+<body>
+    <h1>Mevaning  rasmi</h1>
+    <img src="  
+    https://scontent.ftas1-1.fna.fbcdn.net/v/t1.6435-9/90790691_1385063955011276_3975671919612526592_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=giWXyJucObkAb4kjKU7&_nc_ht=scontent.ftas1-1.fna&oh=00_AfBvycZdAsr3D1kM3o4_ZKvnaD5NnfmUEZY9PQLEEoU-bA&oe=663870B3
+    "
+    
+    alt="olma"
+    width="100"
+    height=100">
+
+    h1>Olmadagi foydali vitaminlar</h1>
+    <ul>
+        <li>Vitamin C</li>
+        <li>Vitamin A</li>
+        <li>Vitamin K</li>
+        <li>Vitamin E</li>
+        <li>Vitamin B6</li>
+    </ul>
+</body>
+</html>
